@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Poland Quizz</string>
+    <string name="hint_for_name">Your name</string>
+
+    <!-- Question 1-->
+    <string name="question_1">1. Who is the president of Poland:</string>
+    <string name="q1_answerA">a) Lech Kaczyński</string>
+    <string name="q1_answerB">b) Andrzej Duda</string>
+    <string name="q1_answerC">c) Lech Wałęsa</string>
+    <string name="q1_answerD">d) Aleksander Kwaśniewski</string>
+
+    <!-- Question 2-->
+    <string name="question_2">2. What city is capital of Poland:</string>
+    <string name="q2_answerA">a) Warszawa</string>
+    <string name="q2_answerB">b) Kraków</string>
+    <string name="q2_answerC">c) Wrocław</string>
+    <string name="q2_answerD">d) Łódź</string>
+
+    <!-- Question 3-->
+    <string name="question_3">3. What is the biggest river passing through Wrocław:</string>
+    <string name="q3_answerA">a) Wisła</string>
+    <string name="q3_answerB">b) Warta</string>
+    <string name="q3_answerC">c) Bug</string>
+    <string name="q3_answerD">d) Odra</string>
+
+    <!-- Question 4-->
+    <string name="question_4">4. What is the second largest city in Poland:</string>
+    <string name="q4_answerA">a) Kraków</string>
+    <string name="q4_answerB">b) Poznań</string>
+    <string name="q4_answerC">c) Katowice</string>
+    <string name="q4_answerD">d) Wrocław</string>
+
+    <!-- Question 5-->
+    <string name="question_5">5. What is the height of Rysy - heighest mountain in Poland:</string>
+    <string name="q5_answerA">a) 2485 m s.n.m</string>
+    <string name="q5_answerB">b) 2485 m s.n.m</string>
+    <string name="q5_answerC">c) 2499 m s.n.m</string>
+    <string name="q5_answerD">d) 1999 m s.n.m</string>
+
+    <!-- Question 6-->
+    <string name="question_6">6. Which person was born in Poland:</string>
+    <string name="q6_answerA">a) A. Mickiewicz</string>
+    <string name="q6_answerB">b) I. Krasicki</string>
+    <string name="q6_answerC">c) C. Columb</string>
+    <string name="q6_answerD">d) Lady Gaga</string>
+
+    <!-- finalScore-->
+    <string name="finalMessagePart1"> Good job </string>
+    <string name="finalMessagePart2"> you answered correctly on</string>
+    <string name="finalMessagePart3"> questions out of 6.</string>
+</resources>
